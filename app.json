@@ -50,7 +50,7 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will Report Bugs And Issues.",
          "required": true,
-         "value": "MyAwesomeSupportGroupGoesHere"
+         "value": ""
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
